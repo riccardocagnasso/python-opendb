@@ -35,7 +35,10 @@ setup(
     author="Riccardo Cagnasso",
     author_email="riccardo@phascode.org",
     license="MIT",
-    keywords="python opendb",
 
-    install_requires=['requests']
+    install_requires=['requests'],
+
+    description="python interface to http://opendb.netfluid.org",
+    keywords="python opendb",
+    url="https://github.com/riccardocagnasso/python-opendb"
 )

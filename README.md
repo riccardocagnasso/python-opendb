@@ -8,7 +8,7 @@ Usage
 
 ```python
 import opendb
-odb = OpenDB()
+odb = opendb.OpenDB()
 
 #list collections
 odb.collections()
